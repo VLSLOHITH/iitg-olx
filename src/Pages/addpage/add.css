@@ -1,0 +1,35 @@
+.navbar{
+    padding-top: 1rem;
+}
+
+.addText{
+    margin-left: 6rem;
+    font-size: larger;
+    font-weight: bold;
+}
+.addBars{
+    margin-left: 6rem;
+}
+ .forms{
+    display: flex;
+    flex-direction: column;
+    margin-top:0.25rem;
+    align-items: center;
+ }
+
+ .addCatogary{
+    margin-top: 2rem ;
+ }
+
+ .addInput{
+    border: none;
+    padding: 5px;
+    background-color:rgb(143, 212, 194);
+    border-radius: 3rem;
+ }
+ .submit{
+    margin-top: 4rem;
+    background-color: rgb(110, 195, 206);
+    border: none;
+    border-radius: 3rem;
+ }

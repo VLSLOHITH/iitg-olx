@@ -1,0 +1,28 @@
+.Title{
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+.boxes{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.singleBox{
+    margin-top: 70px;
+    padding: 20px;
+    background-color: aqua;
+    border-radius: 6pc;
+    cursor: pointer;
+
+}
+
+.boxIcon{
+    font-size: 30px;
+}
+.boxText{
+    font-size:25px;
+    margin-left: 20px;
+}

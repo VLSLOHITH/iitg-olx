@@ -1,0 +1,39 @@
+.top {
+    width: 100%;
+    height: 60px;
+    position: sticky;
+    top: 0;
+    display: flex;
+    align-items: center;
+    z-index: 999;
+    background-color: aqua;
+  }
+  .topLeft{
+    flex:7;
+  }
+  .topRight{
+    flex:2;
+
+  }
+  
+  .topSearch{
+    font-size: 25px;
+    color: #000;
+    margin-left: 10px;
+    cursor: pointer;
+  }
+  .topRectangle{
+    font-size:medium;
+  }
+  .topProfile{
+    cursor: pointer;
+    font-size: 22px;
+  }
+  .topBars{
+    font-size: 22px;
+    cursor: pointer;
+    margin-left: 15px;
+  }
+  
+  
+      
